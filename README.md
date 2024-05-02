@@ -8,6 +8,4 @@ But at the moment, I did not wanted to spend too much time on building the blog 
 
 > I will make the blog from complete scratch later.
 
-## What this blog is about?
-
 
